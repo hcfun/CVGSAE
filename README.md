@@ -68,8 +68,8 @@ You can easily run our code. For example, the following is for running on ICEWS1
 ```bash
 python main_ic14.py 
 ```
-
-
+## Acknowledgement
+We appreciate [MaKEr](https://github.com/zjukg/MaKEr) for providing the backbone to implement our proposed method.
 
 [//]: # (You can try our code easily by runing the scripts in ``./script``, for example:)
 
